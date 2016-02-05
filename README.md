@@ -20,7 +20,6 @@ In your `.eslintrc`:
 ```
 
 ## Rule
-Disallow use of loops (for, for-in, while, do-while).
 
 ### Good cases
 
