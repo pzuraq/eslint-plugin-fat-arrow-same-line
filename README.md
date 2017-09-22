@@ -62,3 +62,7 @@ In your `.eslintrc`:
   )
 );
 ```
+
+## Credits
+
+Original credit to @buildo for creating this plugin
